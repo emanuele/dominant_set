@@ -2,6 +2,7 @@
 remove it from the dataset.
 """
 
+import numpy as np
 from dominant_set import dominant_set
 
 if __name__ == '__main__':
